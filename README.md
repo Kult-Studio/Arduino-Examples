@@ -1,2 +1,2 @@
-# Arduino-Examples
-Useful arduino templates and examples
+# Arduino Examples
+Arduino templates and sensor integration examples
